@@ -8,8 +8,6 @@
 
 Obsidian Daily Analysis is a Python tool that extends your Obsidian note-taking experience by identifying actionable projects throughout your vault and providing intelligent suggestions and resources for them. It seamlessly integrates with your Daily Notes workflow, so you always start each day with an analysis of the important projects discovered in your notes from the previous day.
 
-![Obsidian Daily Analysis Workflow](https://via.placeholder.com/800x400?text=Obsidian+Daily+Analysis+Workflow)
-
 ## Features
 
 - 🔍 **Intelligent Project Extraction**: Automatically identifies actionable projects hidden in your notes, distinguishing them from simple tasks or philosophical musings
